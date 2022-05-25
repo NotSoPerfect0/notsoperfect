@@ -1,0 +1,9 @@
+Main Background Color: #32333a
+Secondary Background Color: #282930
+
+Text Color: #dddddd
+Font Family: "Montserrat", sans-serif
+
+Border: 2.5px solid #18181c
+
+Image & Link height/width: 50px
