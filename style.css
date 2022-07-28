@@ -67,13 +67,13 @@ body {
     padding: 5px;
 }
 
-#idea-container {
+#project-container {
     padding: 15px;
     background-color: #282930;
     border-radius: 16px;
 }
 
-.ic-item {
+.idea {
     padding: 5px;
 }
 
@@ -81,12 +81,12 @@ body {
     list-style: none;
 }
 
-.idea-header {
+.project-header {
 	padding: 5px;
 	font-weight: bold;
 }
 
-.idea-item {
+.project {
     padding: 5px;
 }
 
@@ -95,7 +95,7 @@ body {
     grid-template-columns: 20px 1fr 20px;
 }
 
-#idea-header {
+#project-header {
     grid-column: 2;
 }
 
